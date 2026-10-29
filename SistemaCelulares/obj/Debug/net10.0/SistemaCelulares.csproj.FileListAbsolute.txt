@@ -1,0 +1,14 @@
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\bin\Debug\net10.0\SistemaCelulares.exe
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\bin\Debug\net10.0\SistemaCelulares.deps.json
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\bin\Debug\net10.0\SistemaCelulares.runtimeconfig.json
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\bin\Debug\net10.0\SistemaCelulares.dll
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\bin\Debug\net10.0\SistemaCelulares.pdb
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.AssemblyInfoInputs.cache
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.AssemblyInfo.cs
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.csproj.CoreCompileInputs.cache
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.dll
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\refint\SistemaCelulares.dll
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.pdb
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\SistemaCelulares.genruntimeconfig.cache
+C:\Users\Marx\Desktop\Ativades DIO\SistemaCelulares\obj\Debug\net10.0\ref\SistemaCelulares.dll
